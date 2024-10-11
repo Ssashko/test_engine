@@ -1,5 +1,5 @@
 # test_engine
-test scenes with my graphics engine
+test scenes with my game engine
 
 SCENE TARGETS LIST:
 
